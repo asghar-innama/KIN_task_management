@@ -35,6 +35,7 @@ The Task Management System was developed using HTML, PHP/MySQLi, CSS, JavaScript
 4. Import the SQL file located in the database folder of the source code.
 5. Copy and paste the source code to the location where your local web server accessing your local projects. E.g( XAMPP('C\xampp\htdocs'))
 6. Open a web browser and browse the project. E.g (http://localhost/KIN_task_management)
+
 **Admin Access**
 Email: admin@admin.com
 Password: admin123
